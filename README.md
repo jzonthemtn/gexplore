@@ -4,6 +4,10 @@ This Windows application provides a desktop interface to Google Drive. Note that
 
 A related projected is [gExploreFTP](https://www.github.com/jzonthemtn/gexploreftp).
 
+## Screenshot
+
+![Screenshot](https://github.com/jzonthemtn/gexplore/blob/master/screenshots/screenshot_main.png)
+
 ## License
 
 Licensed under the Apache Software License, version 2.0.
